@@ -4,7 +4,6 @@
  *   firstName: String,
  *   location: String
  *  students - The list of students.
- * 
  */
 export default function getListStudentIds(students) {
   if (students instanceof Array) {
